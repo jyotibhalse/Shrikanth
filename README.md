@@ -1,1 +1,1 @@
-# Shrikantk medical store
+# Shrikanth medical store

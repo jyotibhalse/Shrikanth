@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import { Link } from 'react-router-dom';
 
-import Dashboard  from "../Dashboard";
+import Dashboard  from "../Header/Dashboard";
 import './login.css';
 
 export default function Login(){

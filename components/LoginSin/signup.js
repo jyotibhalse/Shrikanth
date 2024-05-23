@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Dashboard  from "../Dashboard";
+import Dashboard  from "../Header/Dashboard";
 import './signup.css'
 
 export default function Signup(){

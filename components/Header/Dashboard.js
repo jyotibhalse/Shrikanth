@@ -32,12 +32,16 @@ const Dashboard = () => {
             <li className="nav-item1">
               <Link to="/" className="nav-link">Home</Link>
             </li>
+            <li className="nav-item1">
+              <Link to="/About" className="nav-link">About Us</Link>
+            </li>
+            
             <li className="nav-item">
               <Link to="/medicine" className="nav-link">Medicine</Link>
             </li>
 
             <li className="nav-item">
-              <Link to="/login" className="nav-link">
+              <Link to="/offer" className="nav-link">
             <FontAwesomeIcon icon={faGifts} />
           Offers</Link>
             </li>
